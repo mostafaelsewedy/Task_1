@@ -10,7 +10,12 @@
 - please fix and install everything before coming. Check the package-lock.json to see what you are missing.
 or you can just type in terminal to install all missing packages:
     ```
-    npm install 
+    npm install
+
+    or
+    
+    npm install express
+    npm install mongoose
     ```
 # Testing
 After cloning the repo, open the source directory
@@ -50,15 +55,11 @@ Nada's groups:
  mongodb+srv://atlasDB:atlasDB@cluster0.vt5cm.mongodb.net/test
 ```
 
-Fatima's groups:
- ```
-mongodb+srv://Fatma:FatmaDB@cluster0.wxrq0bc.mongodb.net/
-```
 Mabrouk's groups:
  ```
 mongodb+srv://gucACL:lab123456@mabrouk.klnokrh.mongodb.net/
 ```
-Amr's groups:
+Karim's groups:
  ```
 mongodb+srv://aclLab:si3R6zZJzR6xZDze@adiabgudb.cdrbkot.mongodb.net/
 ```
