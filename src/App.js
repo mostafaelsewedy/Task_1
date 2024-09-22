@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 mongoose.set('strictQuery', false);
 require("dotenv").config();
 const {createUser,getUsers, updateUser, deleteUser} = require("./Routes/userController");
-const MongoURI = process.env.MONGO_URI ;
+const MongoURI = 'mongodb+srv://Hadwa:Hadwa@cluster0.hpstsct.mongodb.net/' ;
 
 
 //App variables
